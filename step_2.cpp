@@ -1,3 +1,5 @@
+// обоснование выбора B описано в файле для этапа 3
+
 #include <iostream>
 #include <vector>
 #include <string>
